@@ -1,0 +1,13 @@
+Flask
+Flask_AppBuilder
+SQLAlchemy
+flask
+gunicorn
+matplotlib == 3.3.4
+missingno == 0.4.2
+numpy
+pandas
+scikit-learn 
+seaborn 
+the1owl
+thebrainfuck
